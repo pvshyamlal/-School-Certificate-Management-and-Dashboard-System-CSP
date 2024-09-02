@@ -1,0 +1,8 @@
+**Database Name: schooligniter**
+**Recommended PHP Version 5.6**
+**Admin Login Details**
+Email	: admin@sandeep.com
+Password: sandeep@admin
+
+Email	: admin@shyam.com
+Password: Shyam@admin
